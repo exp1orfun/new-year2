@@ -1,0 +1,60 @@
+img {
+    text-align:center;
+    color: black;
+    border: 10px solid lightseagreen; 
+    background-color: lightseagreen;
+    border-radius: 20px;
+
+}
+h1 {
+    text-align:center;
+    background-color: lightseagreen;
+    color:white;
+}
+header a {
+    font-size: 30px;
+    text-align: justify center;
+    background-color:lightseagreen;
+    color:white;
+    text-decoration: none;
+    border-radius: 30px;
+ 
+
+
+}
+p {
+    text-align: center;
+    font-size: 20px;
+    color:white;
+    background-color:lightseagreen;
+}
+h2 {
+    text-align:center;
+    background-color: lightseagreen;
+    color:white;
+      font-size: 30px;
+}
+h3 {
+    text-align:center;
+    background-color:lightseagreen;
+    color:white;
+    font-size: 30px;
+}
+h4 {
+    text-align:center;
+    background-color: lightseagreen;
+    color:white;
+    font-size: 30px;
+}
+h5 {
+    text-align:center;
+    background-color: lightseagreen;
+    color:white;
+    font-size: 30px;
+}
+h6 {
+    text-align:center;
+    background-color: lightseagreen;
+    color:white;
+    font-size: 30px;
+}
